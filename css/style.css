@@ -50,3 +50,6 @@ li {
 .delete:hover {
     background-color: #c82333;
 }
+.completed {
+    text-decoration: line-through;
+}
